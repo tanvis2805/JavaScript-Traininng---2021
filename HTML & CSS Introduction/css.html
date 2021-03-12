@@ -1,0 +1,93 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>WEB DEVELOPMENT BASICS</title>
+  </head>
+<body>
+
+<style>
+
+h1 { 
+color: green; 
+font-size: 60px; 
+text-align: center
+}
+
+#heading1{
+  color: blue;
+  font-size: 1.5em
+}
+
+#content1{
+  color: red; 
+  background-color: yellow
+}
+ 
+#heading2{
+  color: pink; 
+  background-color: green
+}
+
+</style>
+
+
+
+    <h1>WELCOME TO WEB DEVELOPMENT</h1>
+
+    <p id="heading1"><u># TECHNOLOGIES THAT DRIVE THE WEB :</u></p>
+
+  <div id="content1">
+    <ol>
+      <li>HTML (Hypertext Markup Language)</li>
+      <ul>
+        <li>Hypertext: Text that contains links to other text </li>
+        <li>Markup: Wraps the content in markups/ tags to perform various operations ont it</li> 
+        <li>Language: It has it's own syntax i.e. it has a right and wrong way of writing it.</li>
+        <li>It provides the structure to our content, annotates it and defines the structure.</li>
+      </ul> 
+      <li>CSS (Cascading Style Sheets) </li>
+      <ul>
+        <li>It provides the colorinf and styling to our content.</li>
+      </ul>
+    <li>JavaScript</li>
+    <ul>
+      <li>This is the programming language that provides a proper behaviour and functionality to our content.</li>
+    </ul>
+    </ol>
+  </div> 
+
+  <p id="heading2">LET US START WITH HTML...</p>
+  <p>HTML follows sequential rendering i.e. top to bottom</p>
+  <p>Prior to HTML5 specification , HTML elements were either Block-level Elements or Inline elements; HTML5 split these two content models into 7 models.All the models lie under the given two models:
+    <ol>
+      <li>BLOCK-LEVEL ELEMENTS (roughly flow content)</li>
+      <ul>
+        <li>Render to begin on a new line.</li>
+        <li>May contain inline or other block level elements.</li>
+      </ul>
+
+       <li>INLINE ELEMENTS (roughly phrasing content)</li>
+       <ul>
+        <li>Render on the same line by default.</li>
+        <li>May conatin only inline elements.</li>
+       </ul>
+    </ol>
+  <a href="https://www.w3schools.com/html/html_blocks.asp" target="_blank">Refer here to learn more about Block-Level and Inline Elements.</a>
+
+  <p>Other than these there are many more html elements also known as tags.
+
+  <a href="https://www.javatpoint.com/html-tags#:~:text=HTML%20tags%20are%20like%20keywords,HTML%20tags%20are%20unclosed%20tags." target="_blank">Refer here for learning more html tags.</a>
+
+<p id="demo">A Paragraph</p>
+<button type="button" onclick="myFunction()">Try it</button>
+
+<script>
+function myFunction() {
+  document.getElementById("demo").innerHTML = "Paragraph changed.";
+}
+</script>
+
+
+ </body>
+</html>
