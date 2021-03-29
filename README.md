@@ -5,12 +5,12 @@ It's fundamental parts are divided into 2 categories, each having some after lec
 
 >>>Fundamentals Part - 1 :
 
->Assignments : https://github.com/tanvis2805/JavaScript-Training---2021/tree/master/ASSIGNMENTS
+>Assignments : https://github.com/tanvis2805/JavaScript-Traininng---2021/tree/main/Fundamentals%20Part%20-1/ASSIGNMENTS/Fundamentals%20Part-1%20Assignments
 
->Coding Challenges : https://github.com/tanvis2805/JavaScript-Training---2021/tree/master/CODING%20CHALLENGES/JavaScript%20Fundamentals%20Part%20-1
+>Coding Challenges : https://github.com/tanvis2805/JavaScript-Traininng---2021/tree/main/Fundamentals%20Part%20-1/CODING%20CHALLENGES/JavaScript%20Fundamentals%20Part%20-1
     
 >>>Fundamentals Part - 2 :
    
->Assignments :  will be added soon...
+>Assignments : https://github.com/tanvis2805/JavaScript-Traininng---2021/tree/main/Fundamentals%20Part%20-2/Assignments
     
->Coding Challenges : will be added  soon...
+>Coding Challenges : https://github.com/tanvis2805/JavaScript-Traininng---2021/tree/main/Fundamentals%20Part%20-2/Coding%20Challenge
